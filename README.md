@@ -10,8 +10,6 @@ Idempotent Bash script for first-time setup of Ubuntu or Debian cloud servers: s
 
 ## Quick start
 
-Create an empty repository on GitHub, or use the published default below after you clone or fork.
-
 **Recommended (inspect, then run):**
 
 ```bash
